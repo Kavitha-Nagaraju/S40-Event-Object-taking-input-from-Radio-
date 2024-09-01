@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: cornflowerblue;
+  display: inline-block;
+}
+form label{
+  display: inline-block;
+  width:200px;
+}
+div{
+  margin:10px;
+}
+.gender{
+  width: auto;
+}
